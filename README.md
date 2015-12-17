@@ -11,7 +11,7 @@ More information can be found at: https://www.htmly.com/
 
 Create an account at http://openshift.redhat.com/
 
-[![Click to install OpenShift](http://launch-shifter.rhcloud.com/launch/light/Click to install.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=php-5.4&initial_git_url=https://github.com/gautamkrishnar/htmly-openshift-quickstart)
+[![Click to install OpenShift](http://launch-shifter.rhcloud.com/launch/light/Click to install.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=php-5.4&initial_git_url=https://github.com/gautamkrishnar/htmly-openshift-quickstart&name=htmly)
 
 ### How to use
 After installing you can login to admin console(still in beta) by pointing your browser to: http://grav-yourdomain.rhcloud.com/install.php to setup your instance of htmly
