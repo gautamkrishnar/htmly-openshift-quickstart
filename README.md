@@ -49,4 +49,4 @@ To give your new Grav site a web address of its own, add your desired alias:
 Then add a cname entry in your domain's dns configuration pointing your alias to $whatever-$yourdomain.rhcloud.com.
 
 ### Spread the word
-Liked using Grav in openshift! Don't forget to spread the word by starring this repo.
+Liked using Htmly in openshift! Don't forget to spread the word by starring this repo.
